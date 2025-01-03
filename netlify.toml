@@ -1,3 +1,0 @@
-[build]
-  publish = "Build" # Replace 'build' with your WebGL build output directory
-  command = "CI= npm run build" # or your preferred build command
