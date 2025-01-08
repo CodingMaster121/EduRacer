@@ -1,3 +1,4 @@
+pages_build_output_dir = "./WebGLBuild" # Replace 'build' with your WebGL build output directory
+
 [build]
-  pages_build_output_dir = "./WebGLBuild" # Replace 'build' with your WebGL build output directory
   command = "" # or your preferred build command
