@@ -1,6 +1,3 @@
 name = "eduracer-game"
 type = "javascript"
 pages_build_output_dir = "./WebGLBuild" # Replace 'build' with your WebGL build output directory
-
-[build]
-  command = "" # or your preferred build command
