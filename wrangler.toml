@@ -1,0 +1,3 @@
+[build]
+  publish = "WebGLBuild" # Replace 'build' with your WebGL build output directory
+  command = "npm run build" # or your preferred build command
